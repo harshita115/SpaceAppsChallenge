@@ -9,8 +9,8 @@
 
 <channel>
 	<title>NASA Space Apps Challenge</title>
-	<atom:link href="/https://harshita115.github.io/SpaceAppsChallenge/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://harshita115.github.io/SpaceAppsChallenge</link>
+	<atom:link href="https://harshita115.github.io/SpaceAppsChallenge/feed/" rel="self" type="application/rss+xml" />
+	<link>https://harshita115.github.io/SpaceAppsChallenge</link>
 	<description>Learn With Fun</description>
 	<lastBuildDate>Fri, 11 Oct 2019 13:41:24 +0100</lastBuildDate>
 	<language>en-US</language>
@@ -21,18 +21,18 @@
 	<generator>https://wordpress.org/?v=5.2.3</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>/https://harshita115.github.io/SpaceAppsChallenge/2019/10/11/hello-world/</link>
-				<comments>/https://harshita115.github.io/SpaceAppsChallenge/2019/10/11/hello-world/#comments</comments>
+		<link>https://harshita115.github.io/SpaceAppsChallenge/2019/10/11/hello-world/</link>
+				<comments>https://harshita115.github.io/SpaceAppsChallenge/2019/10/11/hello-world/#comments</comments>
 				<pubDate>Fri, 11 Oct 2019 13:41:24 +0000</pubDate>
 		<dc:creator><![CDATA[nasa]]></dc:creator>
 				<category><![CDATA[Uncategorized]]></category>
 
-		<guid isPermaLink="false">/https://harshita115.github.io/SpaceAppsChallenge/?p=1</guid>
+		<guid isPermaLink="false">https://harshita115.github.io/SpaceAppsChallenge/?p=1</guid>
 				<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 								<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
-							<wfw:commentRss>/https://harshita115.github.io/SpaceAppsChallenge/2019/10/11/hello-world/feed/</wfw:commentRss>
+							<wfw:commentRss>https://harshita115.github.io/SpaceAppsChallenge/2019/10/11/hello-world/feed/</wfw:commentRss>
 		<slash:comments>1</slash:comments>
 							</item>
 	</channel>

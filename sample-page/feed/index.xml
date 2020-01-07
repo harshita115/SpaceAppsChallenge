@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: HUBBLE FUBBLE	</title>
-	<atom:link href="/https://harshita115.github.io/SpaceAppsChallenge/sample-page/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://harshita115.github.io/SpaceAppsChallenge</link>
+	<atom:link href="https://harshita115.github.io/SpaceAppsChallenge/sample-page/feed/" rel="self" type="application/rss+xml" />
+	<link>https://harshita115.github.io/SpaceAppsChallenge</link>
 	<description>Learn With Fun</description>
 	<lastBuildDate>Fri, 11 Oct 2019 23:42:47 +0100</lastBuildDate>
 	<sy:updatePeriod>

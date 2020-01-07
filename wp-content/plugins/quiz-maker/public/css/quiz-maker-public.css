@@ -888,11 +888,11 @@
 }
 
 .ays-field input+label.answered.correct:after{
-	background-image: url('/https://harshita115.github.io/SpaceAppsChallenge/wp-content/plugins/quiz-maker/public/images/correct.png');
+	background-image: url('https://harshita115.github.io/SpaceAppsChallenge/wp-content/plugins/quiz-maker/public/images/correct.png');
 }
 
 .ays-field input+label.answered.wrong:after{
-	background-image: url('/https://harshita115.github.io/SpaceAppsChallenge/wp-content/plugins/quiz-maker/public/images/wrong.png');
+	background-image: url('https://harshita115.github.io/SpaceAppsChallenge/wp-content/plugins/quiz-maker/public/images/wrong.png');
 }
 .ays-field input:checked+label.answered.wrong:before {
 	border-color: #cc3700!important;

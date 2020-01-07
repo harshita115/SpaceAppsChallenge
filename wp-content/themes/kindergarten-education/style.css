@@ -331,7 +331,7 @@ input.search-field {
   position: absolute;
   z-index: 99;
   width: 100%;
-  background: url(/https://harshita115.github.io/SpaceAppsChallenge/wp-content/themes/kindergarten-education/images/cloud-white.png) no-repeat;
+  background: url(https://harshita115.github.io/SpaceAppsChallenge/wp-content/themes/kindergarten-education/images/cloud-white.png) no-repeat;
   background-size: 100% 100%;
 }
 #header{
@@ -340,7 +340,7 @@ input.search-field {
 #header{
   padding: 0 0 3em;
   width: 100%;
-  background: url(/https://harshita115.github.io/SpaceAppsChallenge/wp-content/themes/kindergarten-education/images/cloud-blue.png) no-repeat;
+  background: url(https://harshita115.github.io/SpaceAppsChallenge/wp-content/themes/kindergarten-education/images/cloud-blue.png) no-repeat;
   background-size: 100% 100%;
 }
 .padding0{
@@ -603,17 +603,17 @@ p.tag ,p.cats,.tag a{
   clear:both;
 }
 .metabox .entry-date{
-  background:url('/https://harshita115.github.io/SpaceAppsChallenge/wp-content/themes/kindergarten-education/images/date.png') no-repeat;
+  background:url('https://harshita115.github.io/SpaceAppsChallenge/wp-content/themes/kindergarten-education/images/date.png') no-repeat;
   padding: 0 0 0 20px;
   margin:0 13px 0 0;
 }
 .metabox .entry-author{
-  background:url('/https://harshita115.github.io/SpaceAppsChallenge/wp-content/themes/kindergarten-education/images/author.png') no-repeat;
+  background:url('https://harshita115.github.io/SpaceAppsChallenge/wp-content/themes/kindergarten-education/images/author.png') no-repeat;
   padding: 0 0 0 20px;
   margin:0 20px 0 0;
 }
 .metabox .entry-comments{
-  background:url('/https://harshita115.github.io/SpaceAppsChallenge/wp-content/themes/kindergarten-education/images/comments.png') no-repeat;
+  background:url('https://harshita115.github.io/SpaceAppsChallenge/wp-content/themes/kindergarten-education/images/comments.png') no-repeat;
   padding: 0 0 0 20px;
 }
 
@@ -785,7 +785,7 @@ ul.children {
 #sidebar ul li{
   font-size: 14px; 
   margin:5px 10px;
-  background:url('/https://harshita115.github.io/SpaceAppsChallenge/wp-content/themes/kindergarten-education/images/bullets-sidebar.png') no-repeat 0px 8px;
+  background:url('https://harshita115.github.io/SpaceAppsChallenge/wp-content/themes/kindergarten-education/images/bullets-sidebar.png') no-repeat 0px 8px;
   padding-left:20px;
 }
 #sidebar .tagcloud a {
@@ -1270,7 +1270,7 @@ input.search-submit,
   .toggle a{
     width:100%;
     color:#000;
-    background:url('/https://harshita115.github.io/SpaceAppsChallenge/wp-content/themes/kindergarten-education/images/mobile_nav_right.png') no-repeat right center #5bc4db;
+    background:url('https://harshita115.github.io/SpaceAppsChallenge/wp-content/themes/kindergarten-education/images/mobile_nav_right.png') no-repeat right center #5bc4db;
     padding:10px 10px;
     font-size:16px;
   }
